@@ -1,0 +1,34 @@
+"Task: 1, Test Name: Site logo is displayed, DOM Id: #IMG____9, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Sub menu item Home is visible, DOM Id: #LI__submenu__22, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search field is displayed, DOM Id: #DIV__customsear__41, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search icon is displayed, DOM Id: #BUTTONsubmit____43, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: User profile access link is displayed, DOM Id: #A__accesslink__56, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Wishlist icon is displayed, DOM Id: #A__wishlist__52, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Sidebar filters are visible, DOM Id: #sidebar_filters, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Search icon bla bla, DOM Id: #DIV__topbanner__188, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Grid view icon is displayed, DOM Id: #A____202, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: List view icon is displayed, DOM Id: #A____204, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Open filters icon is displayed, DOM Id: #A__openfilter__207, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: First item in the Items grid is displayed, DOM Id: #product_1, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Add to favourite icon is displayed, DOM Id: #I__tiheart__226, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Fail
+"Task: 1, Test Name: Footer Quick links section is displayed, DOM Id: #UL____424, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer Contacts section is displayed, DOM Id: #UL____440, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer text box for email is displayed, DOM Id: #email_newsletter, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Footer language dropdown is displayed, DOM Id: #SELECTselect-one____461, Browser: Chrome, Viewport: 1200x700, Device: Laptop, Status: Pass
+"Task: 1, Test Name: Site logo is displayed, DOM Id: #IMG____9, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Sub menu item Home is visible, DOM Id: #LI__submenu__22, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Search field is displayed, DOM Id: #DIV__customsear__41, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Search icon is displayed, DOM Id: #BUTTONsubmit____43, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: User profile access link is displayed, DOM Id: #A__accesslink__56, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Wishlist icon is displayed, DOM Id: #A__wishlist__52, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Sidebar filters are visible, DOM Id: #sidebar_filters, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Search icon bla bla, DOM Id: #DIV__topbanner__188, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Grid view icon is displayed, DOM Id: #A____202, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: List view icon is displayed, DOM Id: #A____204, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Open filters icon is displayed, DOM Id: #A__openfilter__207, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: First item in the Items grid is displayed, DOM Id: #product_1, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Add to favourite icon is displayed, DOM Id: #I__tiheart__226, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Footer Quick links section is displayed, DOM Id: #UL____424, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Footer Contacts section is displayed, DOM Id: #UL____440, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Footer text box for email is displayed, DOM Id: #email_newsletter, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
+"Task: 1, Test Name: Footer language dropdown is displayed, DOM Id: #SELECTselect-one____461, Browser: Chrome, Viewport: 768x700, Device: Tablet, Status: Pass
