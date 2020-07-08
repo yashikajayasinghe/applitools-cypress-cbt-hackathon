@@ -1,0 +1,19 @@
+{
+  "name": "cypress123",
+  "version": "1.0.0",
+  "description": "cypress test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome --spec 'cypress/integration/examples/HackathonReporter-v2.spec.js'",
+    "cypress:open": "cypress open" 
+  },
+  "keywords": [
+    "cypress",
+    "browser"
+  ],
+  "author": "Yash J",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^4.9.0"
+  }
+}

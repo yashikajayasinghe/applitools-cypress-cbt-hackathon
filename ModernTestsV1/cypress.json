@@ -1,0 +1,6 @@
+{
+    "baseUrl":"https://demo.applitools.com",
+    "eyesTimeout": 180000,
+    "viewportWidth":800,
+    "viewportHeight":600
+}
