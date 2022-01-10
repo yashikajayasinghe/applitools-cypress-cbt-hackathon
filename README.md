@@ -10,7 +10,7 @@
         - Install chrome browser (https://www.google.com/chrome/)
     2. For modern test Projects:
         - Create Free Applitools account to get an Applitools API KEY (https://auth.applitools.com/users/login)
-        - Add the Applitools API KEY to Environment variavbles. (https://applitools.com/tutorials/cypress.html) 
+        - Add the Applitools API KEY to Environment variables. (https://applitools.com/tutorials/cypress.html) 
 
 #### Project: ModernTestsV1
 
